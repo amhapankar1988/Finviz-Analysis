@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+finvizfinance
+langchain
+langchain-community
+langchain-ibm
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+huggingface_hub
